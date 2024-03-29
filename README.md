@@ -8,7 +8,7 @@ Welcome to Terminal_Agent_Assistance, an innovative Large Language Model (LLM) c
 
 - **LangChain for Workflow Automation**: Utilizing LangChain to create complex workflows and automate tasks within the terminal.
 
-- **Groq Hardware Acceleration**: Leveraging Groq's hardware solutions for unparalleled performance and efficiency in processing tasks.
+- **Groq API Acceleration**: Leveraging Groq's hardware solutions for unparalleled performance and efficiency in processing tasks.
 
 - **Comprehensive Tutorial**: Includes a detailed Jupyter notebook tutorial on building simple to advanced agents, showcasing the integration of these technologies.
 
